@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = PortfolioViewTool::Renderer.copyright 'Oleg Tomillo', 'All rights reserved'
+```
 
 ## Development
 

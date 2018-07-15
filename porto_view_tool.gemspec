@@ -6,8 +6,8 @@ require "porto_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "porto_view_tool"
   spec.version       = PortoViewTool::VERSION
-  spec.authors       = ["TODO: Oleg Tomillo"]
-  spec.email         = ["TODO: test@test.com"]
+  spec.authors       = ["Oleg Tomillo"]
+  spec.email         = ["test@test.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
